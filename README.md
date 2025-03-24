@@ -26,7 +26,7 @@ Installation
 pip install streamlit
 
 
-	3.	Verify that:
+	Verify that:
 	•	app.py and cars_module.py live in the same folder.
 	•	An images/ folder has matching .jpg files referenced by cars_module.py.
 

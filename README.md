@@ -48,16 +48,6 @@ streamlit run app.py
 
 Folder Structure
 
-Car_advisor/
-├── app.py
-├── cars_module.py
-├── images/
-│   ├── bmw_m4.jpg
-│   ├── toyota_camry.jpg
-│   └── ...
-└── README.md
-
-
 
 ⸻
 

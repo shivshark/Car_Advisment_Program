@@ -66,10 +66,13 @@ How to Use
 
 Troubleshooting
 	•	Missing Data
+
 If a selected car has incomplete data (like no HP or MPG), it might get excluded from the charts. Try another trim or a different year.
 	•	API Rate Limits (429)
+ 
 We implemented caching and a single-form approach to minimize calls, but if you hit the limit, consider slowing down or upgrading your Vehicle Databases plan.
 	•	Key Errors
+ 
 Make sure config.py is in the same folder as app.py and that VEHICLE_HISTORY_API_KEY is spelled correctly.
 
 Contributing

@@ -44,8 +44,6 @@ pip install streamlit requests plotly
 VEHICLE_HISTORY_API_KEY = "YOUR_API_KEY"
 
 
-	•	Keep this file out of version control (add it to .gitignore) so you don’t leak keys.
-
 	4.	Run the App
 
 streamlit run app.py
